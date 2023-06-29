@@ -310,9 +310,6 @@ OPML V2.0 备用CDN地址: [https://cdn.jsdelivr.net/gh/zhaoolee/garss/zhaoolee_
     "tasks": [
         {
             "email": "zhaoolee@gmail.com"
-        },
-        {
-            "email": "zhaoolee@foxmail.com"
         }
     ]
 }

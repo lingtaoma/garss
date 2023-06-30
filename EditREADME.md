@@ -177,15 +177,6 @@
 | T007 | 产品100  | 产品人学习成长社区 | {{latest_content}}  |  [订阅地址](http://www.chanpin100.com/feed) |  
 | T008 | 蓝卡  | 美好科技生活方式 | {{latest_content}}  |  [订阅地址](https://www.lanka.cn/feed) |  
 | T009 | APPDO数字生活指南  | Simon的自留地_数码_App_羊毛_相机_数字指南 | {{latest_content}}  |  [订阅地址](https://simonword.com/feed) |  
-| <h2 id="学习类">学习类</h2> |  |   |  |
-| L001 | 扔物线 | 帮助 Android 工程师进阶成长 | {{latest_content}}  |  [订阅地址](https://rengwuxian.com/feed) |  
-| L002 | MOOC中国 | 慕课改变你，你改变世界  | {{latest_content}}  |  [订阅地址](https://www.mooc.cn/feed) |  
-| <h2 id="学术类">学术类</h2> |  |   |  |
-| A001 | 青柠学术 | 每个科研小白都有成为大神的潜力 | {{latest_content}}  |  [订阅地址](https://iseex.github.io/feed) |  
-| <h2 id="生活类">生活类</h2> |  |   |  |
-| L001 | 李子柒 | 李子柒的微博 | {{latest_content}}  |  [订阅地址](https://rsshub.v2fy.com/weibo/user/2970452952) |  
-| L002 | 理想生活实验室 | 为更理想的生活 | {{latest_content}}  |  [订阅地址](https://www.toodaylab.com/rss) |  
-| L003 | 一兜糖 | 家的主理人社区 | {{latest_content}}  |  [订阅地址](https://rsshub.v2fy.com/yidoutang/index) |
 | <h2 id="设计类">设计类</h2> |  |   |  |
 | D001 | Behance |  Adobe旗下设计网站Behance | {{latest_content}}  |  [订阅地址](https://www.behance.net/feeds/projects) |  
 | D002 | Behance官方博客 |  Behance官方博客 | {{latest_content}}  |  [订阅地址](https://medium.com/feed/@behance) |  
@@ -226,18 +217,6 @@
 | C031 | CNU视觉联盟 | 每日精选 | {{latest_content}}  |  [订阅地址](https://rsshub.v2fy.com/cnu/selected) | 
 | C032 | 香水时代 | 最新香水评论-发现香水圈的新鲜事 | {{latest_content}}  |  [订阅地址](https://rsshub.v2fy.com/nosetime/home) |  
 | C033 | 恩山无线论坛  | 无线路由器爱好者的乐园 | {{latest_content}}  |  [订阅地址](https://rsshub.v2fy.com/right/forum/31) |  
-| <h2 id="Telegram优质频道RSS订阅">Telegram优质频道RSS订阅</h2> |  |   |  |
-| TG002 | 编程笑话 |  程序员编程笑话 | {{latest_content}}  |  [订阅地址](https://rsshub.v2fy.com/telegram/channel/programmerjokes) |  
-| TG003 | 薅羊毛 |  各种购物平台的优惠信息 | {{latest_content}}  |  [订阅地址](https://rsshub.v2fy.com/telegram/channel/yangmaoshare) |  
-| TG004 | 竹新社 |  7×24不定时编译国内外媒体的即时新闻报道。 | {{latest_content}}  |  [订阅地址](https://rsshub.v2fy.com/telegram/channel/tnews365) |  
-| TG005 | 书和读书 |  好书推荐。 | {{latest_content}}  |  [订阅地址](https://rsshub.v2fy.com/telegram/channel/GoReading) |  
-| TG006 | 阿里云盘资源分享 |  分享资源完成阿里云盘任务，收获精品资源保存到不限速网盘 | {{latest_content}}  |  [订阅地址](https://rsshub.v2fy.com/telegram/channel/YunPanPan) |
-| TG008 | 扫地僧笔记 | 扫地僧树洞 | {{latest_content}}  |  [订阅地址](https://rsshub.v2fy.com/telegram/channel/lover_links) |
-| TG009 | 树莓派家用云服务器 | 树莓派家用云服务器交流  | {{latest_content}}  |  [订阅地址](https://rsshub.v2fy.com/telegram/channel/zhaoolee_pi) |
-| TG010 | 快乐星球 | 美女图片  | {{latest_content}}  |  [订阅地址](https://rsshub.v2fy.com/telegram/channel/botmzt) |
-| TG011 | Newlearnerの自留地 | 不定期推送 IT 相关资讯 | {{latest_content}}  |  [订阅地址](https://rsshub.v2fy.com/telegram/channel/NewlearnerChannel) |
-
-
 
 ## 批量导入所有RSS订阅
 
